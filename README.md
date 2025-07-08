@@ -57,7 +57,7 @@
 ###
 
 <h3 align="left">
-  <a href="[https://your-deployment-url.com](https://github.com/aquibshaikh7/Blog-Engine-with-Markdown)" rel="noopener noreferrer">
+  <a href="https://github.com/aquibshaikh7/Blog-Engine-with-Markdown" rel="noopener noreferrer">
     Blog-Engine-with-Markdown
   </a>
 </h3>
