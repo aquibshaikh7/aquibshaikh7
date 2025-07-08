@@ -81,7 +81,7 @@
 
 ###
 
-<p align="left">It is an dairy product Ecommerce website with cart and buying options.<br>Responsive website</p>
+<p align="left">•It is an dairy product Ecommerce website with cart and buying options.<br>•Responsive website</p>
 
 ###
 
@@ -97,7 +97,7 @@
 
 ###
 
-<p align="left">Search users by GitHub username<br>Display:<br>Profile info (avatar, bio, followers)<br>Public repos with stars and forks<br>Handle loading & errors</p>
+<p align="left">•Search users by GitHub username<br>Display:<br>•Profile info (avatar, bio, followers)<br>•Public repos with stars and forks<br>•Handle loading & errors</p>
 
 ###
 
