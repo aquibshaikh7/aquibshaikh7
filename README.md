@@ -73,7 +73,11 @@
 
 ###
 
-<h3 align="left">Dairy-product</h3>
+<h3 align="left">
+  <a href="https://github.com/aquibshaikh7/dairy-product" rel="noopener noreferrer">
+    Dairy-Product
+  </a>
+</h3>
 
 ###
 
@@ -85,7 +89,11 @@
 
 ###
 
-<h3 align="left">github-user-finder</h3>
+<h3 align="left">
+  <a href="https://github.com/aquibshaikh7/github-user-finder" rel="noopener noreferrer">
+    github-user-finder
+  </a>
+</h3>
 
 ###
 
