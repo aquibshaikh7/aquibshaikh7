@@ -97,7 +97,7 @@
 
 ###
 
-<p align="left">•Search users by GitHub username<br>Display:<br>•Profile info (avatar, bio, followers)<br>•Public repos with stars and forks<br>•Handle loading & errors</p>
+<p align="left">•Search users by GitHub username<br>•Display:Profile info (avatar, bio, followers)<br>•Public repos with stars and forks<br>•Handle loading & errors</p>
 
 ###
 
