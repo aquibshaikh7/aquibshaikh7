@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">Write blog posts in markdown<br>Preview markdown output (live preview)<br>Save blog posts in browser or Firebase</p>
+<p align="left">• Write blog posts in markdown<br>• Preview markdown output (live preview)<br>• Save blog posts in browser or Firebase</p>
 
 ###
 
